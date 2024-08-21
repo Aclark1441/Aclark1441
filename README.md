@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Aclark1441
+👋 Hi, I’m Alyssa
 - 👀 I’m interested in Healthcare Data Analytics
-- 🌱 I’m currently learning Tableau and Python
-- 💞️ I’m looking to collaborate on any project. I love learning new things, in any field. 
+- 🌱 I’m currently learning Data Analytics and Data Visualization
 - 📫 How to reach me ...
 
 <!---
