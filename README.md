@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Analytics and Data Visualization
 - 📫 Reach me via Email at aclark1441@gmail.com
 
-  #Projects
+  # Projects
   
 
 <!---
